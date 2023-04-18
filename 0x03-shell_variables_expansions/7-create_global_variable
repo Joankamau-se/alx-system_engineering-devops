@@ -1,2 +1,2 @@
 #!/bin/bash
-globalThis.BEST="School"
+export BEST= "School"
